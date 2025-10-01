@@ -56,3 +56,56 @@ It covers **employee headcount, diversity, attrition, and departmental trends**,
 - 🔹 Add **predictive attrition model** (machine learning)  
 - 🔹 Automate data pipeline using **Power Query / VBA**  
 - 🔹 Create **multi-language dashboard** for global HR teams  
+
+
+
+---
+
+## 📝 How to Use  
+1. Download the Excel file from `dashboard/HR_Dashboard.xlsx`  
+2. Open in Microsoft Excel (2016 or later recommended)  
+3. Use slicers (filters) to interact with the data  
+4. View KPIs & charts to analyze HR insights  
+
+---
+
+## 🤝 Contributing  
+Contributions are welcome! 🚀  
+If you’d like to improve the dashboard, feel free to:  
+- Fork the repo  
+- Make changes (data, visuals, features)  
+- Submit a pull request  
+
+---
+
+## 📄 License  
+This project is licensed under the **MIT License** – you are free to use, modify, and distribute with proper credit.  
+
+---
+
+## 👨‍💻 Author  
+**Ariful Islam**  
+- 💼 Aspiring Data Analyst | Excel | Power BI | SQL  
+- 🌐 [LinkedIn Profile](#)  
+- 📧 Email: arifkhan.nsd14@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
