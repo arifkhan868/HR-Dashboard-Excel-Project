@@ -31,7 +31,8 @@ It covers **employee headcount, diversity, attrition, and departmental trends**,
 ---
 
 ## 📷 Dashboard Preview  
-*(Insert screenshot of your dashboard here – `/images/dashboard.png`)*  
+*(Insert screenshot of your dashboard here –   - <a href="https://github.com/arifkhan868/HR-Dashboard-Excel-Project/blob/main/Dashboard.PNG">View Dashboard</a>
+)*  
 
 ---
 
