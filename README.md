@@ -86,7 +86,7 @@ This project is licensed under the **MIT License** – you are free to use, modi
 ## 👨‍💻 Author  
 **Ariful Islam**  
 - 💼 Aspiring Data Analyst | Excel | Power BI | SQL  
-- 🌐 [LinkedIn Profile](#)  
+- 🌐 [[LinkedIn Profile](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bav7LRthBT2WE6hgy7uydKQ%3D%3D)](#)  
 - 📧 Email: arifkhan.nsd14@gmail.com
 
 
